@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Project 21 - Achievable Global Basic Income
+title: Project 21 - Achievable  Global Basic Income
 email: admin@p21.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Project 21 seeks to reduce poverty, debt and inequality 

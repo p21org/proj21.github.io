@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Home
+title: ""
 permalink: /
 ---
 
@@ -17,4 +17,6 @@ Project21 was founded in 2021 after a miserable 2020 where many people in the wo
 
 Project21 aims to deliver an Achievable Global Basic Income. 
 
-This explains a little of how Project21 will work. Will you help make it happen ? 
+This explains a little of how Project21 will work. Will **you** help make it happen ? 
+
+<a href="https://www.patreon.com/bePatron?u=49325618" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
