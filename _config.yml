@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Project 21 - Achievable  Global Basic Income
+title: Project 21 - 
 email: admin@p21.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Project 21 seeks to reduce poverty, debt and inequality 
-  by delivering a Global Basic Income.
+  Achievable Global Basic Income
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "p21.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  proj21
 
 # Build settings
