@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Project 21 - 
+title: Project 21 
 email: admin@p21.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Achievable Global Basic Income
@@ -30,7 +30,7 @@ github_username:  proj21
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+ # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
