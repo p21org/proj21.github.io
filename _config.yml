@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Achievable Global Basic Income
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "p21.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://p21.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  proj21
 
 # Build settings
